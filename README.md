@@ -1,5 +1,5 @@
 
-# Carbon Footprint Reduction Tips Platform
+# EcoView AR
 
 ## Overview
 This project is a web-based application designed to help users reduce their carbon footprint by providing personalized tips and analyzing reports. It utilizes IBM Watson services to generate text-based recommendations and Streamlit for the user interface.
@@ -44,7 +44,7 @@ This project is a web-based application designed to help users reduce their carb
 ## Usage
 1. Run the Streamlit app using:
    ```bash
-   streamlit run <filename>.py
+   streamlit run carbon_footprint_app.py
    ```
 2. Access the app in your browser to either ask for personalized tips or upload a report for analysis.
 
